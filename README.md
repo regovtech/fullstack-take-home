@@ -1,53 +1,66 @@
-<p align="center">
-  <img src="https://static.wixstatic.com/media/3ba736_be1f7ac0f8bf4e049a5fb6616b18d827~mv2_d_1937_1405_s_2.png/v1/fill/w_220,h_140,al_c,q_85,usm_0.66_1.00_0.01/Regov%20Technologies%202%20PNG_edited.webp" width="200">
+<p align="center"> 
+    <img src="https://regov-store.s3.ap-southeast-1.amazonaws.com/REGOV+Logo_CMYK.png" width="200" >
 </p>
 
-# { "Type": "Software Engineer" }
+# Welcome to this PopQuiz!
+### { "Engineer": "FullStack" }
 
 Hey! We are excited that you are interested in joining the team at Regov Technologies.
 
 We feel that the best place to really show us your skills is somewhere you feel comfortable. This test should not take you a long amount of time to complete.
 
-This take home test is used to determine how you go about solving problems logically, as well as building out easy to use, performant user interfaces. This test is very open to interpretation and implementation.
+Demonstrate your problem solving skills and understanding of core data structures by attempting both questions. The questions are open to interpretation and implementation.
 
 ### Coding Challenge
 
 Build a simple user registration portal. The registration process requires three steps.
 
-1. Collect user credentials
+1. Collect user credentials (full name, age, address, employment, job, etc)
 2. A placeholder to upload international passport or national identity card. Then the placeholder should display the upload.
 3. A final preview of all inputs (credentials and upload) before submission.
-4. During preview, a user should be able to update the inputs and re-upload a new image.
+4. During preview, a user should be able to update the inputs or re-upload a new image.
+4. After a successful account creation, a user will be able to login and logout
 
 ### User Stories (Requirements)
 
 - As a user I can register on the app.
+- As a user I can login and logout with my approved credentials
 - As a user I can upload my international passport or identity card.
 - As a user I can preview my inputs and edit on the same page before submitting my registration.
-- As a user I can view the App on Mobile, Tablet or laptop. (responsiveness)
-- As a user I can login to view my registration submission.
-- As a user I can log in and logout.
+- As a user I can access the app on different screen sizes
+- As a user I can login to view my registration submission
 - As a user I can edit submitted information anytime.
+- As an admin i can login, view applications, approve or deny
+- As a system all data should be protected on rest and in transit
 
 Feel free to go above and beyond if you have ideas for extra features!
 
 ### Notes and recommendations
 
-- Frontend : ReactJS with TypeScript
+- Frontend : ReactJS / ReactNative with TypeScript
 - Backend : Node.js with TypeScript
 - Dockerize your app.
 - This is an API based application.
-- The project structure is up to your decision.
-- You are recommended to use git commits in a logical manner to demonstrate the development progress.
-- Writing tests and adhering to development standards/conventions will attract extra points.
+- Apply your preferred coding structure
+- Unit test is an added advantage
+- Add README
+- Produce use case or class diagram for the system architecture 
 - Writing design documents will attract extra points :)
 
-### Submitting
+### Notes
 
-1. Your code should be made available in a public or private repository, on your personal github or bitbucket;
-2. Push up to your repo one last time
-3. Email paul.agada@regovtech.com with the link to your repository
+- Use Node.js | Python
+- Use Git API V3 or above
+- Dockerise the application
+- Apply your preferred coding structure
+- Unit test is an added advantage
+- Add README
+- Produce use case or class diagram for the system architecture 
+- Writing design documents will attract extra points :)
 
-### Questions
+## Submission process
 
-If you have any questions do reach out.
+1. Email your complete work to techchallenge@regovtech.com & paul.agada@regovtech.com
+2. Submit Github Repo
+
+Good Luck!
