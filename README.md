@@ -32,6 +32,7 @@ Build a simple user registration portal. The registration process requires three
 - As a user I can edit submitted information anytime.
 - As an admin i can login, view applications, approve or deny
 - As a system all data should be protected on rest and in transit
+- As a system my screen loads fast, and shows only necessary contents
 
 Feel free to go above and beyond if you have ideas for extra features!
 
