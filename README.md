@@ -65,5 +65,3 @@ Feel free to go above and beyond if you have ideas for extra features!
 2. Submit Github Repo
 
 Good Luck!
-
-It still works
